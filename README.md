@@ -1,7 +1,7 @@
 # 🛒 React Mini Cart
 
 Un mini carrito de compras hecho con **React + TypeScript + TailwindCSS v4**.  
-Diseñado para practicar el manejo de **estados, hooks personalizados** y **persistencia con LocalStorage*
+Diseñado para practicar el manejo de **estados, hooks personalizados** y **persistencia con LocalStorage**
 ---
 
 ## ✨ Características
